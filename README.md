@@ -36,11 +36,15 @@ Ensure you have the following installed to run CRUDify:
    ```bash
    git clone https://github.com/nilesh-rahangdale/CRUDify.git
    cd CRUDify
-2. **🛠️ Install Dependencies:**
-```bash
-npm install
-3. **🚀 Run the Application**
-npx react-native run-android
-# or
-npx react-native run-ios
+1. **Install Dependencies:**  
+   ```bash
+   npm install
+
+1. **Run the Application:**  
+   ```bash
+   npx react-native run-android
+    # or
+    npx react-native run-ios
+
+
 
